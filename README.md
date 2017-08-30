@@ -1,2 +1,2 @@
 # git-cabdev
-## Created for Familiarization of workflow on git and github.
+## Created for familiarization of workflow in git and github.
